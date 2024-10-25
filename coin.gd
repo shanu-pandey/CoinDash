@@ -1,5 +1,4 @@
 extends Area2D
-
 var screenSize = Vector2.ZERO
 
 func pickup():
